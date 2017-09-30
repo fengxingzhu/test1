@@ -1,7 +1,11 @@
 <?php
 echo "hello word!";
 echo "<br>";
-echo "two";
+echo "two  and exit";
 echo "<br>";
 echo "three";
+echo "<br>";
+echo "four";
+echo "<br>";
+echo "five";
 ?>
